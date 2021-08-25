@@ -1,0 +1,1 @@
+console.log("NVIDIA es una empresa que crea placas de video");

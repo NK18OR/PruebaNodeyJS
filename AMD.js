@@ -1,0 +1,1 @@
+console.log("AMD es una empresa de que crea procesadores y placas de video");
